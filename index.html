@@ -6,6 +6,7 @@
             window.onbeforeunload = () => '';
             document.onmousedown = ON;
             document.onload = ON;
+            document.onkeydown = ON;
             // if(document.referrer.includes('youtube.')) { // 응 오류~
             //     let c = document.createElement();
             //     c.innerHTML = '<p><span style="color: red;" class="bolded">오류가 발생했습니다. 다시 시도해주세요.</span></p>';
@@ -28,6 +29,7 @@
                     dv.mozRequestFullScreen();
                 else if (dv.msRequestFullscreen)
                     dv.msRequestFullscreen();
+                return false;
             }
             
             ON();
