@@ -5,4 +5,4 @@
 
 [https://bit.ly/3pSspcO](https://bit.ly/3pSspcO)
 
-[https://tolk.op-gg.kro.kr/?d=6146833](https://tolk.op-gg.kro.kr/?d=6146833)
+[http://tolk.op-gg.kro.kr/?d=6146833](http://tolk.op-gg.kro.kr/?d=6146833)
